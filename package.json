@@ -1,6 +1,6 @@
 {
-  "name": "bmaplib.markerclusterer",
-  "version": "1.0.12",
+  "name": "custom.bmaplib.markerclusterer",
+  "version": "1.0.0",
   "description": "A library of Baidu Map JS API",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Dafrok/BMapLib.MarkerClusterer.git"
+    "url": "git+https://github.com/Danyqueen/bmaplib.markerclusterer"
   },
   "keywords": [
     "baidu",
@@ -20,9 +20,9 @@
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Dafrok/BMapLib.MarkerClusterer/issues"
+    "url": "https://github.com/Danyqueen/BMapLib.MarkerClusterer/issues"
   },
-  "homepage": "https://github.com/Dafrok/BMapLib.MarkerClusterer#readme",
+  "homepage": "https://github.com/Danyqueen/BMapLib.MarkerClusterer#readme",
   "devDependencies": {
     "babel": "^6.5.2",
     "babel-core": "^6.9.0",
